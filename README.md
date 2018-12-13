@@ -1,0 +1,2 @@
+# GQGetureTableView
+实现Scrollview和TableView、CollectionView的联动滑动
